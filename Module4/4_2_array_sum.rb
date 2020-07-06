@@ -18,3 +18,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.sum_of_array(1, 2, 3, 4, 5)

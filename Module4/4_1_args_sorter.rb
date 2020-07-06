@@ -11,7 +11,7 @@ class Calculator
 
     # тут його слід скопіювати в новий масив
     a = []
-    ARGV.each {|e| a << e}
+    ARGV.each {|e| a << e.to_i}
 
     # тут його слід посортувати в спадаючому напрямку
     a.sort!
@@ -23,3 +23,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.sort_incoming_args

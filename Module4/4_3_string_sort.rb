@@ -23,3 +23,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.string_sort("Sometimes the hand of fate must be forced")

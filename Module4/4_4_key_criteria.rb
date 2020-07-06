@@ -22,3 +22,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.hash_key_criteria({Loyalty:5, Strength:8, Age:20})
