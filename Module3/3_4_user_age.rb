@@ -47,7 +47,7 @@ class Calculator
         elsif dob_year.to_i % 4 != 0 && dob_month.to_i > 28
           result = -1
         else
-          year_index = 1850
+          year_index = 0
           daysForCurrentDate = 0
           
           while year_index <= current_year
@@ -91,7 +91,7 @@ class Calculator
 
           daysForCurrentDate += current_day
 
-          year_index = 1850
+          year_index = 0
           daysForBirthdayDate = 0
           
           while year_index <= dob_year.to_i
@@ -164,3 +164,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.console_calculator

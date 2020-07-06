@@ -41,3 +41,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.number_of_digits(0)

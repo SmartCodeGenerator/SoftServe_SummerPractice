@@ -67,3 +67,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.console_calculator

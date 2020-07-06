@@ -51,3 +51,5 @@ class Calculator
 
   end
 end
+
+#Calculator.new.mean_odd_positive
