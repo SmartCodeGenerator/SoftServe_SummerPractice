@@ -118,4 +118,4 @@ class Calculator
   end
 end
 
-Calculator.new.console_calculator
+#Calculator.new.console_calculator

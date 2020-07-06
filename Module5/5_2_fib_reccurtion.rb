@@ -17,3 +17,5 @@ class Calculator
     end
   end
 end
+
+#puts Calculator.new.fibonacci(10)
