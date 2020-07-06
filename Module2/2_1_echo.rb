@@ -14,3 +14,5 @@ class Mirror
 
   end
 end
+
+#Mirror.new.echo_program

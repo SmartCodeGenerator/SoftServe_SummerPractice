@@ -15,3 +15,5 @@ class Greater
     puts "Доброго дня, #{name}!"
   end
 end
+
+#Greater.new.great_the_person

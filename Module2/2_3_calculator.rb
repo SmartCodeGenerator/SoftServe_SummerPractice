@@ -59,3 +59,5 @@ class Calculator
     puts "Дякуємо за користування програмою. Пам'ятайте про похибку обчислень!"
   end
 end
+
+#Calculator.new.calculate
